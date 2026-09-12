@@ -1,9 +1,9 @@
 {
-  "version": "3.2.13",
+  "version": "3.2.14",
   "systemType": "RigNegar",
-  "file": "firmware-3.2.13.enc",
-  "encSize": 1409440,
-  "plainSize": 1408928,
-  "plainSha256": "9c8ab9308aece8982260dbc2014a55e4fb76775cf8ac07d5556805bf949a1058",
-  "sig": "kcxRHlqI7pDrLMAnnm4mGkZteEfveZZJC1Yfr/WBvd6iYcHv51yJ3/PCf19CbQUXO/km9vTR+1fLkhYpL7G37ihrWKIxV7EtZBjztZ59cSJkV1amkO8uMw46aEHIeHJ9B26Ld1S0RfyomzvNs8ZovPpDLhZZkclIgHF4NmgN2jD7MvgUiRawJpreWbNgpJv0Q78EQEAuTMv7IC6LUfFSE9jhFv038SGz6xjFdqi30v06BPUXNU0jtHmXMTynLifp90EScgDMfAf6hR6Q646Eq9yxp7z4XYgi+K9ReG1WO9qWXCpviUnmQ/fL2ukfjim0fbJwKlgBxny4ZRoGtSjKdB5cHWUKSsh70Z5hltReDcJUnHMo5scyZ83RvOUnGWHw4WZ5e2fnEOja0scxR+EV05SBDfzlotR/sH6+xVnoZgGnLhenc1L6Sm4Ipq7jW4OCeD46qYIkg0wEV7Jb+ZrJNKmTElzRSsIsAq1Veh/p6dyxl1Q4a+NyzHoonF/rPTRc"
+  "file": "firmware-3.2.14.enc",
+  "encSize": 1412688,
+  "plainSize": 1412176,
+  "plainSha256": "a090aea77efc5b256f4dce7a8ec36cc157f74d26de389b7ff6b3da02c68750cb",
+  "sig": "sdKrinQ06Iv/UCBpd52B5cS82dVB4CEXfyGdsXu7z8krIm58mCm9KA/mpIede2PLue7gSHSnz2DcwVLltueGJYPe0xi+zadoIx6Z7W3Z7NRHIyPh1mnYGqKrloq2rd55ejO4mPoguqAmAgID2kF1VJtb1gOGrhpR5MYz4jruEnP2OswNTwUfh6PfGOm/Y4ce2f21VdlaM3rTpAFxGIxjPivNTRTqgE6kj13m/Fbp2RSpSVVydOsIaIIMMxcvb/iWQcHQKV+AU3sRJH0qEJHNnrZHrWjG54/JbfOLjfMAlRrEJDyGz+Lqe95WItPGyBK9u9H+q3J7mXaV8f6+eoEpj92RLF46+QTG9qVPKIXT+SXnNCvpJwPmDomxp01zm8aDfyixvXwo4vQsMWq9FFmyjH+2wUrRQNBvswWUT6aMTA8B68DcPxbHowaNROxR69IhTxf09XV70NlXnf58yAHUe9IyT8IIDHdXBVrZreYokCImuwPfjOXpgPZx+MGhexKi"
 }
