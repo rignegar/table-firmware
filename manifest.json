@@ -1,9 +1,9 @@
 {
-  "version": "3.2.24",
+  "version": "3.2.25",
   "systemType": "RigNegar",
-  "file": "firmware-3.2.24.enc",
-  "encSize": 1412944,
-  "plainSize": 1412432,
-  "plainSha256": "25bf9dd0f5fec630a119bced9c4e0d1106c27f8d9c31973a3adb8e1ba4f967eb",
-  "sig": "ApwYTacawVYFO+xjwWldLQThMSlAHYeq0e3lGRLZAxO4qZK2llMSzR4IE9+XCMxo7DDcVtVDuW/wiR0K2TDSUPyfP5kri+wK/pecpUhaPDLVu1G+7jnfiOB3ogx2s2qUmu6MudhtUi+zWqVkZ393APFyBFOY0XmUrwRZ5vrzSGvHjkKm/73W8IBtRxMRm665tHW5esoPy48AQB7WcGWzizcSiCeTjNNB0QGsQZMyvbovmq9l2hSplNTCbZQrAT8pVEE37L+8cwhjdLG22OtBjA/OesrDyfAioGZqs5jSf+n+KqUMpwMooaTrsMyjCGtieC2damjucAWwJxgrTbUntzLViNgJVf8xliH7bqc8h/TfSnJP5H6/jhAehzKFb/NYOEDvC/m9Q7yDLNgr+dz9VXJVRMBDGfjhuc5Z96qZu8tmNTQtRfahk4CkCEPsb+At8se02ZyqtSYuDPXNKLx3CyDY8xDw6a5y2OZKld4LgB1ywKmibxVFyXEskoIMSCg2"
+  "file": "firmware-3.2.25.enc",
+  "encSize": 1413104,
+  "plainSize": 1412592,
+  "plainSha256": "38ba864e4b6c8ffbbc76b6e974dfca23f57f3e539c5068f1e0d7c41e6202420c",
+  "sig": "JdGZA1DBomTJYEQOIMMRyvZFgLGPdofu2xVnlNPbpFZmb2HjIE1oIkIuF2CNRxcSA0SvllTF4Nu3M8P4N9/AN5qqw4Tm1v6cQj1N+N9z1yrVCA9oiX4mKOSG9A8lp2LImOf2RKzgwJhr4QKcLOCUE3JTS2oZh9L+qlO5u7GoeXInEDjEnySCRodnVs6PwuG1nRjdNv5adLLFrqelXeZeClaR+1SM254IsOMAxoc8JfR1Zj9tvha0yrhc37WOZxzzyZVY8ex9MeQjE9+uPWi6yqGzK86AKOQ3SwFfzY8c91g3/Dg7KUuif+YZ07DdaOjq3v7trlbom3LCbhKnEZ2KhLt4G3VyGzytg8feWusAxXxAZwM9ho03xdTIJ2QVUp6u2ZZ61TgqKEGI8qWHvoOyM2mOl+j7gNuFJkFRx0mVWOiLF3B9C3Gk7EiWS6AtsXrV0FbAa468Fr0nZ6ikbUjLL6feXpTv1KQiOGhiTwEppG+JMtQydY+tlb+HxVR4yfsL"
 }
